@@ -9,8 +9,8 @@
 ## 空格按住的键位，按下空格同时再按下a进入字符模式，或者按下d进入鼠标模式
 <img width="789" alt="WechatIMG29" src="https://user-images.githubusercontent.com/85467627/167107365-366f204e-9e3a-4851-b72a-fc02f8baaca2.png">
 
-## 鼠标模式
+## 字符模式
 <img width="789" alt="WechatIMG31" src="https://user-images.githubusercontent.com/85467627/167107508-aa1bd38b-5eed-47cc-ae97-444ff23f2145.png">
 
-## 字符模式
+## 鼠标模式
 <img width="789" alt="WechatIMG32" src="https://user-images.githubusercontent.com/85467627/167107531-8f9639e5-f264-4820-af36-3b73fbcca3ec.png">
